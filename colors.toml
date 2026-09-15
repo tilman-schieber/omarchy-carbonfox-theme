@@ -1,0 +1,35 @@
+mode = "dark"
+
+# Ported from EdenEast/nightfox.nvim's "carbonfox" flavor (IBM Carbon Design
+# System palette). Accent overridden per request; everything else is either a
+# literal value from the source palette or computed from its brighten/blend
+# formulas (nightfox defines several colors as functions, not literals).
+
+accent = "#00b2ff"
+selection = "#2a2a2a"
+muted = "#6e6f70"
+
+background = "#161616"
+dark_background = "#0c0c0c"
+darker_background = "#020202"
+lighter_background = "#252525"
+
+foreground = "#f2f4f8"
+dark_foreground = "#566e9f"
+light_foreground = "#a2b1cd"
+bright_foreground = "#ffffff"
+
+red = "#EE5396"
+yellow = "#08BDBA"
+orange = "#3DDBD9"
+green = "#25be6a"
+cyan = "#33B1FF"
+blue = "#78A9FF"
+magenta = "#BE95FF"
+
+bright_red = "#f16da6"
+bright_yellow = "#2dc7c4"
+bright_green = "#46c880"
+bright_cyan = "#52bdff"
+bright_blue = "#8cb6ff"
+bright_magenta = "#c8a5ff"
